@@ -1,2 +1,2 @@
 # org-roam
-My Org-roam nores
+My Org-roam notes
